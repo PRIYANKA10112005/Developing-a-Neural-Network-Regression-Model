@@ -135,14 +135,12 @@ plt.show()
 
 ### OUTPUT
 
-<img width="286" height="483" alt="image" src="https://github.com/user-attachments/assets/facbd515-b2b3-43a9-a806-26adfc130d63" />
+<img width="540" height="502" alt="image" src="https://github.com/user-attachments/assets/0f6a7c77-57a5-4241-9efb-0786d25c2364" />
+<img width="645" height="520" alt="image" src="https://github.com/user-attachments/assets/b886514a-aa39-4dc6-b6d9-4f3e44d492e1" />
 
-
-### Training Loss Vs Iteration Plot
-<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/9d9d4a11-0149-4a66-b364-7333d1b933f8" />
 
 ### New Sample Data Prediction
-<img width="197" height="52" alt="image" src="https://github.com/user-attachments/assets/9f42819f-0691-4763-8c39-e8421043d305" />
+<img width="605" height="97" alt="image" src="https://github.com/user-attachments/assets/dcad62ff-d034-41ed-98a2-a2ce7645b148" />
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
